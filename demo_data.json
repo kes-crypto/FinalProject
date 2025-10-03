@@ -1,0 +1,5 @@
+[
+  {"sensor_id":"field-1-sensor-A","timestamp":"2025-09-30T06:00:00Z","soil_moisture":18.5,"temperature":22.3,"humidity":65.2,"ph":6.1,"crop":"maize"},
+  {"sensor_id":"field-1-sensor-A","timestamp":"2025-09-30T12:00:00Z","soil_moisture":15.2,"temperature":26.9,"humidity":58.1,"ph":6.0,"crop":"maize"},
+  {"sensor_id":"field-2-sensor-A","timestamp":"2025-09-30T06:00:00Z","soil_moisture":30.2,"temperature":20.1,"humidity":72.5,"ph":6.8,"crop":"beans"}
+]
